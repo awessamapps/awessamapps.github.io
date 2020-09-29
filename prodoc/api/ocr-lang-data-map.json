@@ -1,0 +1,251 @@
+{
+ 
+ "afr" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/afr.traineddata",
+ 
+ "amh" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/amh.traineddata",
+ 
+ "ara" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ara.traineddata",
+ 
+ "asm" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/asm.traineddata", 
+ 
+ "aze" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/aze.traineddata", 
+ 
+ "aze_cyrl" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/aze_cyrl.traineddata", 
+ 
+ "bel" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/bel.traineddata", 
+ 
+ "ben" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ben.traineddata", 
+ 
+ "bod" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/bod.traineddata", 
+ 
+ "bos" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/bos.traineddata", 
+ 
+ "bre" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/bre.traineddata", 
+ 
+ "bul" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/bul.traineddata", 
+ 
+ "cat" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/cat.traineddata", 
+ 
+ "ceb" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ceb.traineddata", 
+ 
+ "ces" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ces.traineddata", 
+ 
+ "chi_sim" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/chi_sim.traineddata", 
+ 
+ "chi_sim_vert" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/chi_sim_vert.traineddata", 
+ 
+ "chi_tra" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/chi_tra.traineddata", 
+ 
+ "chi_tra_vert" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/chi_tra_vert.traineddata", 
+ 
+ "chr" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/chr.traineddata", 
+ 
+ "cos" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/cos.traineddata", 
+ 
+ "cym" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/cym.traineddata", 
+ 
+ "dan" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/dan.traineddata", 
+ 
+ "deu" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/deu.traineddata", 
+ 
+ "div" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/div.traineddata", 
+ 
+ "dzo" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/dzo.traineddata", 
+ 
+ "ell" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ell.traineddata", 
+ 
+ "eng" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/eng.traineddata", 
+ 
+ "enm" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/enm.traineddata", 
+ 
+ "epo" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/epo.traineddata", 
+ 
+ "est" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/est.traineddata", 
+ 
+ "eus" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/eus.traineddata", 
+ 
+ "fao" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fao.traineddata", 
+ 
+ "fas" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fas.traineddata", 
+ 
+ "fil" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fil.traineddata", 
+ 
+ "fin" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fin.traineddata", 
+ 
+ "fra" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fra.traineddata", 
+ 
+ "frk" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/frk.traineddata", 
+ 
+ "frm" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/frm.traineddata", 
+ 
+ "fry" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/fry.traineddata", 
+ 
+ "gla" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/gla.traineddata", 
+ 
+ "gle" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/gle.traineddata",
+ 
+ "glg" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/glg.traineddata", 
+ 
+ "grc" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/grc.traineddata", 
+ 
+ "guj" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/guj.traineddata", 
+ 
+ "hat" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/hat.traineddata", 
+ 
+ "heb" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/heb.traineddata", 
+ 
+ "hin" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/hin.traineddata", 
+ 
+ "hrv" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/hrv.traineddata", 
+ 
+ "hun" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/hun.traineddata", 
+ 
+ "hye" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/hye.traineddata", 
+ 
+ "iku" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/iku.traineddata", 
+ 
+ "ind" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ind.traineddata", 
+ 
+ "isl" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/isl.traineddata", 
+ 
+ "ita" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ita.traineddata", 
+ 
+ "ita_old" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ita_old.traineddata", 
+ 
+ "jav" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/jav.traineddata", 
+ 
+ "jpn" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/jpn.traineddata", 
+ 
+ "jpn_vert" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/jpn_vert.traineddata", 
+ 
+ "kan" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kan.traineddata", 
+ 
+ "kat" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kat.traineddata", 
+ 
+ "kat_old" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kat_old.traineddata", 
+ 
+ "kaz" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kaz.traineddata",
+ 
+ "khm" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/khm.traineddata", 
+ 
+ "kir" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kir.traineddata", 
+ 
+ "kmr" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kmr.traineddata", 
+ 
+ "kor" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kor.traineddata", 
+ 
+ "kor_vert" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/kor_vert.traineddata", 
+ 
+ "lao" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/lao.traineddata", 
+ 
+ "lat" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/lat.traineddata", 
+ 
+ "lav" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/lav.traineddata", 
+ 
+ "lit" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/lit.traineddata", 
+ 
+ "ltz" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ltz.traineddata", 
+ 
+ "mal" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mal.traineddata", 
+ 
+ "mar" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mar.traineddata", 
+ 
+ "mkd" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mkd.traineddata", 
+ 
+ "mlt" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mlt.traineddata", 
+ 
+ "mon" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mon.traineddata", 
+ 
+ "mri" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mri.traineddata", 
+ 
+ "msa" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/msa.traineddata", 
+ 
+ "mya" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/mya.traineddata", 
+ 
+ "nep" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/nep.traineddata", 
+ 
+ "nld" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/nld.traineddata", 
+ 
+ "nor" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/nor.traineddata", 
+ 
+ "oci" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/oci.traineddata", 
+ 
+ "ori" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ori.traineddata", 
+ 
+ "osd" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/osd.traineddata", 
+ 
+ "pan" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/pan.traineddata", 
+ 
+ "pol" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/pol.traineddata", 
+ 
+ "por" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/por.traineddata", 
+ 
+ "pus" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/pus.traineddata", 
+ 
+ "que" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/que.traineddata", 
+ 
+ "ron" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ron.traineddata", 
+ 
+ "rus" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/rus.traineddata", 
+ 
+ "san" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/san.traineddata", 
+ 
+ "sin" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/sin.traineddata", 
+ 
+ "slk" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/slk.traineddata", 
+ 
+ "slv" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/slv.traineddata", 
+ 
+ "snd" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/snd.traineddata", 
+ 
+ "spa" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/spa.traineddata",
+ 
+ "spa_old" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/spa_old.traineddata",
+ 
+ "sqi" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/sqi.traineddata",
+ 
+ "srp" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/srp.traineddata",
+ 
+ "srp_latn" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/srp_latn.traineddata",
+ 
+ "sun" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/sun.traineddata",
+ 
+ "swa" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/swa.traineddata",
+ 
+ "swe" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/swe.traineddata",
+ 
+ "syr" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/syr.traineddata",
+ 
+ "tam" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tam.traineddata",
+ 
+ "tat" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tat.traineddata",
+ 
+ "tel" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tel.traineddata",
+ 
+ "tgk" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tgk.traineddata",
+ 
+ "tha" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tha.traineddata",
+ 
+ "tir" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tir.traineddata",
+ 
+ "ton" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ton.traineddata",
+ 
+ "tur" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/tur.traineddata",
+ 
+ "uig" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/uig.traineddata",
+ 
+ "ukr" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/ukr.traineddata",
+ 
+ "urd" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/urd.traineddata",
+ 
+ "uzb" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/uzb.traineddata",
+ 
+ "uzb_cyrl" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/uzb_cyrl.traineddata",
+ 
+ "vie" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/vie.traineddata",
+ 
+ "yid" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/yid.traineddata",
+ 
+ "yor" : "https://tesseractrepo.s3.ap-south-1.amazonaws.com/tesseractTrained/yor.traineddata"
+ 
+}
