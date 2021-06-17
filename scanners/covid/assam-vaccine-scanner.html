@@ -63,6 +63,7 @@
 
         </center>
         <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4">
+            <h3>Overview</h3>
             <div class="alert alert-info">
                 <strong id="log1"></strong>
             </div>
@@ -94,7 +95,9 @@
             <button type="button" class="btn btn-default" onclick="beep()">Check Beep</button>
         </div>
 
-        <div class="col-sm-8 col-xs-8 col-md-8 col-lg-8" id="centers">
+        <div class="col-sm-8 col-xs-8 col-md-8 col-lg-8">
+            <h3>Centers (Sorted by Total Available Dose)</h3>
+            <div id="centers"></div>
         </div>
 
 
@@ -168,7 +171,7 @@
             );
             let data2 = await res2.json();
             let sessions = data.sessions.concat(data2.sessions);
-            sessions.sort((a, b) => b.available_capacity_dose2 - a.available_capacity_dose2);
+            sessions.sort((a, b) => (b.available_capacity_dose1 + b.available_capacity_dose2) - (a.available_capacity_dose1 + a.available_capacity_dose2));
 
             log('FETCHED DATA', 1);
 
