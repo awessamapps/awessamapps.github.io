@@ -1,0 +1,362 @@
+[
+  {
+    "items": [
+      {
+        "price": 219,
+        "description": "There is a little naughty in all of us! Luxurious cr\u00e8me caramel and beautiful golden syrup will smother you in sweet french kisses\u2026 ohlala!",
+        "title": "Sun Kissed Creme Caramel",
+        "ingredients": "Water, Golden Caramel Confectionery (12.6%) (Water, Sugar, Liquid Glucose, Stabilisers - E412, E410, CONTAINS PERMITTED NATURAL (CARAMEL) COLOUR- E150d AND ADDED FLAVOUR - NATURE IDENTICAL GOLDEN SYRUP FLAVOURING SUBSTANCE.), Sugar, Milk Solids, Palm Oil, Liquid Glucose, Biscuit Pieces (4%) (E500(ii), E503(ii), E322), Chocolate Confectionery (4%) (E1400, E414, E904, CONTAINS PERMITTED NATURAL FOOD COLOUR - E100(i) AND SYNTHETIC FOOD COLOUR - E110), Vegetable Protein (Soy), Emulsifier-E471, Stabilisers- E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/creme_caramel_thumbnails_product-1862837-png.png.ulenscale.290x290.png",
+        "short_description": "Kwality Walls Cr\u00e8me Caramel Tub, 700ml",
+        "qty": "700ml"
+      },
+      {
+        "price": 159,
+        "description": "Enjoy the goodness of real fruit in a delicious creamy dessert. With creamy delights every scoop is a celebration. Real fruit pulp, fruit pieces and fruit sauces. All sourced with care. Dig into a creamy delight and let the range of lively flavours satisfy your creamy fruit craving",
+        "title": "So Alphonso Mango",
+        "ingredients": "Water, Sugar, Alphonso Mango Pulp (10%), Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407, Acidity Regulator-330.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/alphanso_mango_2_thumbnails_product-1862824-png.png.ulenscale.290x290.png",
+        "short_description": "Kwality Walls Alphonso Mango Tub, 700ml",
+        "qty": "700ml"
+      },
+      {
+        "price": 135,
+        "description": "With a scoop of Kwality Walls Vanilla Family Pack, you will find a rich, creamy Vanilla that\u2019s more vanilla-tasting than any Vanilla you have ever tasted in all of Vanillas entirety. Let\u2019s shamelessly dig into this one with an absolute guilt-free indulgence that will keep you craving for more.",
+        "title": "Shameless Vanilla",
+        "ingredients": "Water, Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_shamless_vanilla-1868116-png.png.ulenscale.290x290.png",
+        "short_description": "Kwality Walls Vanilla Tub, 700ml",
+        "qty": "700ml"
+      },
+      {
+        "price": 259,
+        "description": "Who doesn't like a surprise? Crushed into a creamy dessert, you'll recognize the unique crunchy & chocolatey little crumbs. It\u2019s simply Oreo!",
+        "title": "Oreo & Cream",
+        "ingredients": "Water, Sugar, Oreo Biscuit - Crushed (13.1%) (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Syrup, Cocoa Solids (3%*), Leavening Agents (E500(ii), E503(ii)), Edible Salt, Emulsifier (E322) and CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES) (Contains Wheat. Manufactured on equipment that also processes products containing Milk), Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407. *-approximate value",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/oreo_thumbnails_product_510x510-1869481-png.png.ulenscale.290x290.png",
+        "short_description": "Kwality Walls Oreo & Cream , 700ml",
+        "qty": "700ml"
+      },
+      {
+        "price": 219,
+        "description": "It\u2019s a delicious mess of contradictions. Succulent fruit & crunchy nuts trapped in scoops of creamy dessert. Not just nice\u2026 Twice as Nice!",
+        "title": "Fruit & Nut",
+        "ingredients": "Water, Hazelnut Flavoured Confectionery (12.4%) (Water, Sugar, Milk Solids, Palm Oil, Liquid Glucose, Maltodextrin, Cocoa Solids, Emulsifier-E471, Stabilisers - E410, E412, CONTAINS PERMITTED SYNTHETIC FOOD COLOURS - E102, E122, E110, E133, E143 AND ADDED FLAVOUR - ARTIFICIAL HAZELNUT FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Cashew Nuts (3.2%), Raisins (3.2%), Almonds (1.6%), Vegetable Protein (Soy), Emulsifier -E471, Stabilisers - E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/fruit_n_nut2_thumbnails_product-1862845-png.png.ulenscale.290x290.png",
+        "short_description": "Kwality Walls Fruit & Nut tub with Cashew Nuts (3.2%), Raisins(3.2%) & Almonds (1.6%), 700ml",
+        "qty": "700ml"
+      },
+      {
+        "price": 219,
+        "description": "It is round dark & so deliciously handsome! It is always a crowd pleaser because it knows what you like! Take a walk on the darker side.",
+        "title": "Darkly Divine Chocolate Sensation",
+        "ingredients": "Water, Chocolate Flavoured Confectionery (12%) (Water, Sugar, Milk Solids, Palm Oil, Cocoa Solids, Liquid Glucose, Maltodextrin, Emulsifier-E471, Stabilisers- E412, E410 and CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE.), Sugar, Palm Oil, Milk Solids, Milk Compound Chips (4%) (E322), Dark Compound Chips (4%) (E322), Liquid Glucose, Cocoa Solids, Maltodextrin, Vegetable Protein (Soy), Emulsifier-E471, Stabilisers- E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/divine_chocolate_thumbnails_product-1862838-png.png.ulenscale.290x290.png",
+        "short_description": "Darkly Divine Chocolate Sensation",
+        "qty": "700ml"
+      }
+    ],
+    "color": "0xFFF57030",
+    "type": "Tub Family Pack",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/family_pack_thumbnail-1862796-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/website/family-pack-banner-1326x331_r1-1969267-jpg.jpg.ulenscale.1440x360.jpg"
+  },
+  {
+    "items": [
+      {
+        "price": 60,
+        "title": "Uni Cornetto",
+        "description": "Little magic little fantasy! Creamy berry dessert with rich white chocolate disc and magic of praline sprinklers in a new purple cone!",
+        "qty": "110ml",
+        "short_description": "Creamy Berry dessert, Black currant fruits (4%) in a wafer cone (14.2%) with chocolate compound coating(22.3%) topped with Cashew Pralines (2.2%)",
+        "ingredients": "Water, Compound Coating (22.3%) (Sugar, Palm Oil, Palm Kernel Oil, Milk Solids, Cocoa Solids, Emulsifier - E322, CONTAINS ADDED NATURE IDENTICAL BLUEBERRY FLAVOUR AND ARTIFICIAL VANILLA FLAVOURING SUBSTANCES), Wafer Biscuit Cone (14.2%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Black Carrot Powder, Emulsifier - E322, Iodised Salt, CONTAINS PERMITTED SYNTHETIC FOOD COLOURS - E129, E133. CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Edible Palm Oil, Milk Solids, Blackcurrant Fruits (4%), Cashew Pralines (2.2%)(E127, E122, E133), Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/uni_cornetto_thumbnails_product-1862861-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 20,
+        "title": "Cornetto Mini Butterscotch",
+        "description": "Small cravings! A creamy butterscotch delight packed in a crispy cone coated topped with caramel sauce and butterscotch crunches.",
+        "qty": "45ml",
+        "short_description": "Creamy butterscotch in a wafer cone (23%) with chocolate compound coating(23.7%) topped with Butterscotch Flavoured Confectionery (3.29%)",
+        "ingredients": "Water, Compound Coating (23.7%) (Sugar, Palm Kernel Oil, Palm oil, Coconut Oil, Cocoa Solids, Milk Solids, Emulsifier- E322, CONTAINS ADDED ARTIFICIAL VANILLA AND BUTTERSCOTCH FLAVOURING SUBSTANCES), Wafer Biscuit Cone (23%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier - E322, Salt, CONTAINS PERMITTED NATURAL COLOUR - E150d), Sugar, Palm Oil, Milk Solids, Butterscotch Flavoured Confectionery (3.29%)(Sugar, Nuts - Cashew, Dairy Butter), Liquid Glucose, Emulsifier- E471, Vegetable Protein (Soy), Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/butterscotch_mini_thumbnails_product-1862829-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 20,
+        "title": "Cornetto Snackers",
+        "description": "Small cravings! A creamy chocolate delight packed into a crunchy mini cone topped with chocolate sauce and choco chips.",
+        "qty": "45ml",
+        "short_description": "Creamy butterscotch in a wafer cone (22.2%) with chocolate compound coating(14.9%) topped with Chocolate Flavoured Confectionery (9.5%)",
+        "ingredients": "Water, Wafer Biscuit Cone (22.2%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier - E322, Salt, CONTAINS PERMITTED NATURAL COLOUR - E150d), Compound Coating (14.9%) (Sugar, Palm Kernel Oil, Palm oil, Coconut Oil, Cocoa Solids, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Chocolate Flavoured Confectionery (9.5%) (Water, Sugar, Condensed Milk, Cocoa Solids, Palm Oil, Liquid Glucose, Milk Solids, Maltodextrin, Emulsifier - E471, Stabilisers - E412, E410. CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE.), Sugar, Palm Oil, Milk Solids, Milk Compound Chips (2.4%) (E322), Liquid Glucose, Cocoa Solids, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/double_choco_mini_thumbnails_product-1862839-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 60,
+        "title": "Cornetto Disc Oreo",
+        "description": "It's a mix made in heaven! Oreo crushed in creamy Vanilla wrapped in our first-ever chocolate cone topped with a chocolate disc",
+        "qty": "110ml",
+        "short_description": "Creamy vanilla with Oreo crumbs in a wafer cone (14.63%) with chocolate compound coating(21.95%)",
+        "ingredients": "Water, Compound Coating (21.95%) (Sugar, Palm Kernel Oil, Palm oil, Cocoa Solids, Coconut Oil, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL CHOCOLATE AND VANILLA FLAVOURING SUBSTANCES), Wafer Biscuit Cone (14.63%) (Refined Wheat Flour (Maida), Sugar, Cocoa Powder, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Oreo Biscuit - Crushed (10.98%) (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Syrup, Cocoa Solids (3%*), Leavening Agents (E500(ii), E503(ii)), Edible Salt, Emulsifier (E322) and CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES) (Contains Wheat. Manufactured on equipment that also processes products containing Milk), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/oreo_thumbnails_product-1862856-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 50,
+        "title": "Cornetto Choco Vanilla",
+        "description": "A creamy vanilla delight packed in a crispy cone coated topped with choco chips.",
+        "qty": "105ml",
+        "short_description": "Vanilla delight in a wafer cone (16.7%) with chocolate compound coating(9.4%) toppeds with chocolate cpound chips(2.2%)",
+        "ingredients": "Water, Wafer Biscuit Cone (16.7%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS PERMITTED NATURAL COLOR - E150d), Compound Coating (9.4%) (Sugar, Palm oil, Coconut Oil, Cocoa Solids, Emulsifier-E322, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Chocolate Flavoured Confectionery (5.1%) (Water, Sugar, Palm Oil, Cocoa Solids, Milk Solids, Liquid Glucose, Maltodextrin, Emulsifier-E471, Stabilisers- E412, E410 and CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Milk Solids, Liquid Glucose, Milk Compound Chips (2.2%) (E322), Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/choco_vanilla_thumbnails_product-1862862-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 40,
+        "title": "Cornetto Butterscotch",
+        "description": "A creamy butterscotch delight packed in a crispy cone coated topped with caramel sauce and butterscotch crunches.",
+        "qty": "105ml",
+        "short_description": "Creamy butterscotch in a wafer cone (16.1%) with chocolate compound coating(16.1%) Butterscotch Flavoured Confectionery (3.5%)",
+        "ingredients": "Water, Wafer Biscuit Cone (16.1%) (Refined Wheat Flour(Maida), Sugar, Palm Oil, Emulsifier - E322, Salt, CONTAINS PERMITTED NATURAL COLOUR - E150d), Compound Coating (16.1%) (Sugar, Palm Kernel Oil, Palm oil, Coconut Oil, Cocoa Solids, Milk Solids, Emulsifier- E322, CONTAINS ADDED ARTIFICIAL VANILLA AND BUTTERSCOTCH FLAVOURING SUBSTANCES), Sugar, Edible Palm Oil, Milk Solids, Butterscotch Flavoured Confectionery (3.5%)(Sugar, Nuts - Cashew, Dairy Butter), Liquid Glucose, Emulsifier- E471, Vegetable Protein (Soy), Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/butterscotch_thumbnails_product-1862828-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 50,
+        "title": "Cornetto Double Chocolate",
+        "description": "Duo of milk and dark chocolate delight packed in crunchy cone",
+        "qty": "105ml",
+        "short_description": "Dark and Milk Chocolate delights in a wafer cone (16%) with chocolate compound coating(14%)",
+        "ingredients": "Water, Wafer Biscuit Cone (16%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier- E322, Iodised Salt, CONTAINS NATURAL COLOUR - E150d), Compound Coating (14%) (Sugar, Palm Oil,Coconut Oil, Cocoa Solids, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Chocolate Coated Confectionery (2.8%), Liquid Glucose, Maltodextrin, Cocoa Solids, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E412, E410, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/double_chocolate_thumbnails_product-1862840-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFF58C1E9",
+    "type": "Cornetto",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/cornetto_thumbnail_290x290-1862801-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/website/cornetto_banner_1326x331_r-1958217-png.png.ulenscale.1440x360.png"
+  },
+  {
+    "items": [
+      {
+        "price": 30,
+        "title": "Feast Fruit & Nut",
+        "description": "Who doesn’t like a Solid surprise! A solid chocolate core packed in crunchy and creamy layers of chocolate delight finished with Cashews and Raisins.",
+        "qty": "70ml",
+        "short_description": "Three layers of Chocolate surprise finished with Cashews and Raisins.",
+        "ingredients": "Compound Coating (34.19%) (Palm Kernel Oil, Sugar, Cocoa Solids, Milk Solids, Emulsifier - E322 and CONTAINS ADDED FLAVOUR - ARTIFICIAL VANILLA & CHOCOLATE FLAVOURING SUBSTANCES.), Water, Sugar, Raisin (8%), Cashew Nut (4.5%), Palm Oil, Milk Solids, Liquid Glucose, Cocoa Solids, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/fruit_n_nut_feast_thumbnails_product-1862843-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 30,
+        "title": "Feast Chocolate",
+        "description": "Who doesn’t like a Solid surprise! Bite the crunchy chocolate coating into a soft creamy chocolate delight and finish with a solid chocolate core.",
+        "qty": "70ml",
+        "short_description": "Three layers of Chocolate surprise",
+        "ingredients": "Compound Coating (44.52%) (Palm Kernel Oil, Sugar, Cocoa Solids, Milk Solids, Emulsifier - E322 and CONTAINS ADDED FLAVOUR - ARTIFICIAL VANILLA & CHOCOLATE FLAVOURING SUBSTANCES.), Water, Sugar, Palm Oil, Milk Solids, Rusk, Liquid Glucose, Cocoa Solids, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/chocolate_feast_thumbnails_product-1869482-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFFFFDF02",
+    "type": "Feast",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/feast_thumbnail_290x290-1862794-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/feast_banner_1326x331-1862761-png.png.ulenscale.1440x360.png"
+  },
+  {
+    "items": [
+      {
+        "price": 20,
+        "title": "Shahi Kulfi",
+        "description": "You majesty! Enjoy the majestic taste of rich authentic kulfi with a hint of cardamom flavour",
+        "qty": "50ml",
+        "short_description": "Rich kulfi with a hint of cardamom flavour",
+        "ingredients": "Water, Milk Solids, Sugar, Condensed Milk, Liquid Glucose, Maltodextrine, Emulsifier-E471, Stabilisers- E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/shahi_kulfi_thumbnails_product-1862859-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFFF57030",
+    "type": "Kulfi",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/kulfi_thumbnail_290x290-1862807-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/website/kulfi_banner_1326x331_r1-1969268-jpg.jpg.ulenscale.1440x360.jpg"
+  },
+  {
+    "items": [
+      {
+        "price": 10,
+        "title": "Orange Mahabar",
+        "description": "Enjoy licking this cool and refreshing orange candy. Slurp!",
+        "qty": "65ml",
+        "short_description": "Enjoy licking the Ever-Orange, cool and refreshing ice candy, now n Maha size. Slurp!",
+        "ingredients": "Water, Sugar, Liquid Glucose, Acidity Regulator - E330, Orange Squash (0.2%) (E330, E223, E110)",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/orange_mahabar_thumbnails_product-1862855-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 15,
+        "title": "Mango Zap",
+        "description": "Plunge into the fruity goodness of Kwality Wall's Mango Zap. Delicious vanilla coated with real Mango fruit ice.",
+        "qty": "65ml",
+        "short_description": "Creamy Vanilla coated with mango fruit ice with real mango pulp (5.09%)",
+        "ingredients": "Water, Sugar, Mango Pulp (5.09%), Palm Oil, Milk Solids, Liquid Glucose, Maltodextrin, Vegetable Protein (Soy), Acidity Regulator - E330, Emulsifier-E471, Stabilisers- E412, E415, E410, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/mango_zap_open_file-1868177-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 10,
+        "title": "Lemon Blast",
+        "description": "Enjoy licking this cool and refreshing ice candy with lemon flavour. Slurp!",
+        "qty": "50ml",
+        "short_description": "Enjoy licking this cool and refreshing ice candy with lemon flavour. Slurp!",
+        "ingredients": "Water, Sugar, Liquid Glucose, Acidity Regulator - E330, Emulsifier - E471, Stabilisers - E412, E410, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/lemon_blast_thumbnails_product-1862848-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 10,
+        "title": "Cola Blast",
+        "description": "Enjoy licking this cool and refreshing ice candy with cola flavour. Slurp!",
+        "qty": "50ml",
+        "short_description": "Enjoy licking this cool and refreshing ice candy with cola flavour. Slurp!",
+        "ingredients": "Water, Sugar, Liquid Glucose, Acidity Regulator - E330",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/cola_blast_thumbnails_product-1862836-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 15,
+        "title": "Cloud Bite",
+        "description": "Drooling flavours of mango and raspberry. A treat for your eyes and your taste buds too. Go ahead..take a soft, cool, cloudy bite!",
+        "qty": "55ml",
+        "short_description": "Dual flavours of mango and raspberry on a stick in its unique shape",
+        "ingredients": "Water, Sugar, Alphonso Mango Pulp (17.5%), Strawberry Squash (5%) (Strawberry Pulp, Sugar, Water, Liquid Glucose, Acidity Regulator − 330, Stabilisers 415, 401, CONTAINS PERMITTED SYNTHETIC FOOD COLORS− 124, 122 AND ADDED ARTIFICIAL STRAWBERRY FLAVOURING SUBSTANCE), Liquid Glucose, Acidity Regulator − E330, Emulsifier − E471, Stabilisers− E410, E461, E440, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/cloudbite_thumbnails_product-1862835-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 10,
+        "title": "Chocobar mini",
+        "description": "Creamy vanilla delight with a crunchy chocolate coating packed in a mini size, Kwality wall's Mini Chocobar will surely satiate your small sweet cravings !",
+        "qty": "40ml",
+        "short_description": "Creamy Vanilla Wrapped in a crunchy chocolate coating",
+        "ingredients": "Water, Plain Compound Coating (27.3%) (Palm Kernel Oil, Sugar, Milk Solids, Cocoa Solids, Palm Oil, Emulsifier - E322 and CONTAINS ADDED FLAVOUR- ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/feast_chocobar_thumbnails_product-1862841-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 10,
+        "title": "Chocobar",
+        "description": "Creamy vanilla delight with a crunchy chocolate coating packed, Kwality wall's Chocobar will surely satiate your sweet cravings !",
+        "qty": "70ml",
+        "short_description": "Creamy Vanilla Wrapped in a crunchy chocolate coating",
+        "ingredients": "Water, Plain Compound Coating (24%) (Palm Kernel Oil, Sugar, Milk Solids, Cocoa Solids, Palm Oil, Emulsifier - E322 and CONTAINS ADDED FLAVOUR- ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/feast_chocobar_thumbnails_product-1862841-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 10,
+        "title": "Aamras",
+        "description": "Mango on a stick! Enjoy the refreshing taste of Mango with Kwality wall's Aamras. Made with real Alphonso mango pulp Aamras is a treat to your tastebuds.",
+        "qty": "70ml",
+        "short_description": "Mango delight with 35% real Alphonso mango pulp",
+        "ingredients": "Water, Alphonso Mango Pulp (35%), Sugar, Liquid Glucose, Emulsifier - E471, Stabilisers - E410, E461, E440, E407, Acidity Regulator - E330",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/aamras_thumbnails_product-1862825-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFF71C119",
+    "type": "Delights on a Stick",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/delights_on_a_stick_thumbnail_290x290-1862803-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/delights_on_a_stick_banner_1326x331-1862740-png.png.ulenscale.1440x360.png"
+  },
+  {
+    "items": [],
+    "color": "0xFF301900",
+    "type": "Magnum",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/magnum_thumbnail_290x290-1862808-png.png.ulenscale.490x490.png",
+    "banner": "https://www.magnumicecream.com/content/dam/unilever/magnum/global/pack_shot/pack_with_product/ice_cream/ice_cream_unidentified/TAB-490025.jpg.ulenscale.768x385.jpg"
+  },
+  {
+    "items": [
+      {
+        "price": 35,
+        "title": "Vanilla",
+        "description": "I am shamesless. Put something on me or just indulge as it is! Rich and creamy - you will crave more for me!",
+        "qty": "90ml",
+        "short_description": "Smooth, soft, creamier and delicious Vanilla scoop in a cup.",
+        "ingredients": "Water, Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_vanilla-1868094-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 35,
+        "title": "Strawberry",
+        "description": "A scoop of yummy, Creamy, Kwality Wall's Strawberry!",
+        "qty": "90ml",
+        "short_description": "A scoop of Yummy Yummy, Creamy Creamy Kwality Wall's strawberry!",
+        "ingredients": "Water, Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier- E471, Stabilisers - E410, E412, E407, Acidity Regulator - E330",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_strawberry-1868113-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 30,
+        "title": "Gems Cup",
+        "description": "Try the new crunchy, colourful and chocolatey Kwality Walls Cadbury Gems Burst!",
+        "qty": "58ml",
+        "short_description": "Try the new crunchy, colourful and chocolatey Kwality Walls Cadbury Gems Burst!",
+        "ingredients": "Water, Choco Panned Crush (14.1%) (Sugar, Hydrogenated Veg. Fat, Milk Solids, Cocoa solids, Maida, Emulsifiers (E414, E442, E476), Colours (E171, E102, E133, E124, E127, E122, E132 ,E110), Liq. Glucose, Glazing Agent (E903), Flavours (Natural, Nature Identical, Artificial-Caramel, Vanilla)), Sugar, Palm Oil, Milk Solids, Liq. Glucose, Cocoa solids, Emulsifier - E471, Veg. Protein (Soy), Stabilisers - E410, E412, E407, Colours-E150d, E102, E122, E133",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/gems_thumbnails_product-1862846-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 35,
+        "title": "Fruit & Nut",
+        "description": "I'm a delicious mess of contradictions. Succulent fruit and crunchy nuts trapped in scoops of creamy dessert. Not just nice… twice as nice!",
+        "qty": "100ml",
+        "short_description": "Hazelnut flavour with cashewnuts, raisins and almonds",
+        "ingredients": "Water, Hazelnut flavoured Confectionery (12.4%) (Water, sugar, Milk Solids, Palm Oil, Liquid Glucose, Maltodextrin, Cocoa Solids, Emulsifier - E471, Stabilisers - E410, E412, CONTAINS PERMITTED SYNTHETIC FOOD COLOURS - E102, E122, E110, E133, 143 AND ADDED FLAVOUR - ARTIFICIAL HAZELNUT FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Cashew Nuts (3.2%), Almonds (1.6%), Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_fruit_n_nut-1868173-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 40,
+        "title": "Divine Chocolate",
+        "description": "I'm round, dark and so deliciously handsome! I'm always a crowd pleaser because I know what you like! Take a walk on the darker side",
+        "qty": "100ml",
+        "short_description": "Dark chocolate flavoured ice cream with dark compund chips (4%)",
+        "ingredients": "Water, Chocolate Flavoured Confectionery (12%) (Water, Sugar, Milk Solids, Palm Oil, Cocoa Solids, Liquid Glucose, Maltodextrin, Emulsifier-E471, Stabilisers- E412, E410 and CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Milk Compound Chips (4%) (E322), Dark Compound Chips (4%) (E322), Liquid Glucose, Cocoa Solids, Maltodextrin, Vegetable Protein (Soy), Emulsifier-E471, Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_chocolate-1868175-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 40,
+        "title": "Chocolate Cup",
+        "description": "A luscious, delicious, creamier chocolate scoop to indulge in!",
+        "qty": "90ml",
+        "short_description": "A luscious, delicious, creamier chocolate scoop to indulge in!",
+        "ingredients": "Water, Sugar, Edible Palm Oil, Milk Solids, Liquid Glucose, Cocoa Solids, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/510x510_chocolate-1868175-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 35,
+        "title": "Butterscotch Cup",
+        "description": "A soft, smooth, Butterscotch scoop now creamier than ever!",
+        "qty": "90ml",
+        "short_description": "A soft, smooth, Butterscotch scoop now creamier than ever!",
+        "ingredients": "Water, Sugar, Butterscotch Flavoured Confectionery (10.36%)(Sugar, Cashew Nuts, Butter), Milk Solids, Palm Oil, Liquid Glucose, Emulsifier - E471, Stabilisers - 412, E410, E407",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/1_layer_butterscotch_kwallity_walls_cup_510px-1868049-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFF89C453",
+    "type": "Delights in a Cup",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/delights_in_a_cup_thumbnail-290x290-1862802-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/website/cups_banner_1326x331_r-1958218-png.png.ulenscale.1440x360.png"
+  },
+  {
+    "items": [
+      {
+        "price": 30,
+        "title": "Sandwich Chocolate and Vanilla",
+        "description": "Sandwich Chocolate and Vanilla",
+        "qty": "80ml",
+        "short_description": "Sandwich Chocolate and Vanilla",
+        "ingredients": "Biscuit (43.86%) (Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Milk Solids, Iodised Salt, Emulsifier - E322, Malt Extract and Leavening Agents - E500(ii), E503(ii). CONTAINS PERMITTED NATURAL AND SYNTHETIC FOOD COLOURS - E150d, E102 & ADDED FLAVOURS - ARTIFICIAL VANILLA, MILK AND MALT FLAVOURING SUBSTANCES), Water, Sugar, Palm Oil, Milk Solids, Cocoa Solids, Liquid Glucose, Emilsifier - E471, Vegetable Protein (Soy), Stabilisers - E410, E412, E407.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/sandwich_thumbnails_product-1862858-png.png.ulenscale.290x290.png"
+      },
+      {
+        "price": 30,
+        "title": "Cassatta",
+        "description": "Go nuts over a rainbow of flavours!Yummy combination of 3 flavours- Strawberry, Pista and Tutti Frutti along with cake finished with Cashew nuts",
+        "qty": "125ml",
+        "short_description": "Cake combined with Strawberry, Pista and Tutti Fruti delight finished with Cashews",
+        "ingredients": "3 FLAVOURED FROZEN DESSERT WITH VEGETARIAN CAKE. INGREDIENTS: Water, Vegetarian Cake- (13%)(Water,Wheat Flour, Sugar, Milk Solids, Baking Powder, Baker Shortening (Palm OIl), Emulsifiers- E475, Stabilizer- E415, Starch, Dextrose, Salt, Raising Agent - E341 (ii), Maltodextrin and CONTAINS NATURE IDENTICAL & ARTIFICIAL VANILLA FLAVOURING SUBSTANCES.), Sugar, Cashew Nuts (8.5%), Palm Oil, Milk Solids, Glazed Fruits (4.25%) (E330, E211, E102, E110, E122, E124), Liquid Glucose, Vegetable Protein (Soy), Emulsifier-E471, Stabilizers - E410, E412, E407, Acidity Regulator- E330.",
+        "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/cassatta_thumbnails_product-1862830-png.png.ulenscale.290x290.png"
+      }
+    ],
+    "color": "0xFFFF608D",
+    "type": "Novelties",
+    "img": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/kw_in/novelties_thumbnail_290x290-1862817-png.png.ulenscale.490x490.png",
+    "banner": "https://asset-apac.unileversolutions.com/content/dam/unilever/heart/global/website/novelties-banner-1326x331_r1-1969270-jpg.jpg.ulenscale.1440x360.jpg"
+  }
+]
